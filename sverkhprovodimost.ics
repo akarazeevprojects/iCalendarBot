@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+BEGIN:VEVENT
+SUMMARY:Лекция «Что такое сверхпроводимост
+ ь?»
+DTSTART:20171201T170000
+DTEND:20171201T190000
+DESCRIPTION:1 декабря в 17:00 в Московском корпус
+ е МФТИ состоится третья встреча из цикла
+  лекций по физике. Тема лекции: «Что тако
+ е сверхпроводимость?» Её проведёт Леони
+ д Моргун\, преподаватель кафедры общей ф
+ изики.
+LOCATION:Московский корпус МФТИ
+URL:https://mipt.ru/news/lektsiya_chto_takoe_sverkhprovodimost_
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Event reminder
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

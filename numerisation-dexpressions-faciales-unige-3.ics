@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DESCRIPTION:Présentation d'une vidéo illustrant les expressions faciales de synthèse créées avec le logiciel FACSGen\, développé au CISA.
+DTSTART:20171121T120000Z
+DTEND:20171121T150000Z
+SUMMARY:Numérisation d&#8217\;expressions faciales &#8211\; UNIGE
+URL;VALUE=URI:https://digitaltag.swiss/fr/programme/numerisation-dexpressions-faciales-unige/
+LOCATION:CFF\, Gare Cornavin\, 1201 Genève
+DTSTAMP:20171129T142517Z
+UID:5a1ec34d258a8
+END:VEVENT
+END:VCALENDAR
